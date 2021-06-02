@@ -1,0 +1,16 @@
+{
+  "name": "async_demo",
+  "version": "0.0.0",
+  "description": "async_demo",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "nodemon": "^2.0.7",
+    "package": "^1.0.1",
+    "underscore": "^1.13.1"
+  }
+}

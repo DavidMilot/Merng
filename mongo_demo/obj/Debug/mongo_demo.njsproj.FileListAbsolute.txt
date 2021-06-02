@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\merng\merng\mongo_demo\obj\Debug\mongo_demo.njsproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\merng\merng\mongo_demo\bin\Microsoft.NodejsTools.WebRole.dll

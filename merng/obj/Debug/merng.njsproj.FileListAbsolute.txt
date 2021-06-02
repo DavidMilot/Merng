@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\merng\merng\merng\obj\Debug\merng.njsprojAssemblyReference.cache
+C:\Users\User\Desktop\merng\merng\merng\obj\Debug\merng.njsproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\merng\merng\merng\bin\Microsoft.NodejsTools.WebRole.dll

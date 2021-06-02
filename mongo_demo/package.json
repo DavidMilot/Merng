@@ -1,0 +1,12 @@
+{
+  "name": "mongo_demo",
+  "version": "0.0.0",
+  "description": "mongo_demo",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mongoose": "^5.12.12"
+  }
+}

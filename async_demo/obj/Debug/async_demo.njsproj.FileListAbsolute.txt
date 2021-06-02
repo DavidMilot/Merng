@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\merng\merng\async_demo\obj\Debug\async_demo.njsproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\merng\merng\async_demo\bin\Microsoft.NodejsTools.WebRole.dll
